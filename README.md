@@ -11,3 +11,5 @@ The x,y coordinates are in coordinate system EPSG:28992 (http://spatialreference
 
 All credits shoul go the the Authors of the 'sp' package.
 http://cran.r-project.org/web/packages/sp/index.html
+
+For further details like meaning of individual columns, consult R help (for example: [http://hosho.ees.hokudai.ac.jp/~kubo/Rdoc/library/sp/html/meuse.html](http://hosho.ees.hokudai.ac.jp/~kubo/Rdoc/library/sp/html/meuse.html).
